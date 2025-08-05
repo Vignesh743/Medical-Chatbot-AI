@@ -45,6 +45,6 @@ open up localhost:
 Python
 LangChain
 Flask
-GPT
+API
 Pinecone 
 ```
